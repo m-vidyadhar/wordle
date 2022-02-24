@@ -1,6 +1,4 @@
 import sys
-
-from pip import main
 sys.path.insert(0, "/Users/chintu/Documents/repos/wordle/")
 
 import numpy as np
